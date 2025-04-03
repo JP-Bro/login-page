@@ -9,9 +9,7 @@ export default function App() {
   };
 
   return (
-    <div className="amazon-container">
-      <div className="login-box">
-      <img src="/amazon-logo.png" alt="Amazon Logo" className="logo" />
+
 
         <h2>Sign in</h2>
         <div className="input-box">
